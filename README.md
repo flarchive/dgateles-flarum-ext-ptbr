@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of dgateles/flarum-ext-ptbr.** Not for installation: use [Packagist](https://packagist.org/packages/dgateles/flarum-ext-ptbr) or the [upstream repository](https://github.com/dgateles/flarum-ext-portuguese-br).
 
-**0** versions archived · Latest: [`v0.1.0-beta.8`](https://github.com/flarchive/dgateles-flarum-ext-ptbr/tree/archive/v0.1.0-beta.8) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+**6** versions archived · Latest: [`v0.1.0-beta.8`](https://github.com/flarchive/dgateles-flarum-ext-ptbr/tree/archive/v0.1.0-beta.8) · License: `MIT` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.3` | 2015-10-28 | — | [Browse](https://github.com/flarchive/dgateles-flarum-ext-ptbr/tree/archive/v0.1.0-beta.3) |
+| `v0.1.0-beta.4` | 2015-11-04 | — | [Browse](https://github.com/flarchive/dgateles-flarum-ext-ptbr/tree/archive/v0.1.0-beta.4) |
+| `v0.1.0-beta.5` | 2016-03-29 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/dgateles-flarum-ext-ptbr/tree/archive/v0.1.0-beta.5) |
+| `v0.1.0-beta.6` | 2016-10-19 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/dgateles-flarum-ext-ptbr/tree/archive/v0.1.0-beta.6) |
+| `v0.1.0-beta.7` | 2017-07-02 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/dgateles-flarum-ext-ptbr/tree/archive/v0.1.0-beta.7) |
+| `v0.1.0-beta.8` | 2017-07-02 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/dgateles-flarum-ext-ptbr/tree/archive/v0.1.0-beta.8) |
 
 Catalog entry: [packages/dgateles-flarum-ext-ptbr.json](https://github.com/flarchive/archive-index/blob/main/packages/dgateles-flarum-ext-ptbr.json)
 
